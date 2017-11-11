@@ -1,12 +1,0 @@
-Dependencies for Project 'dummy', Target 'Target 1': (DO NOT MODIFY !)
-F (.\startup_stm32f10x_md.s)(0x59CF6D85)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x--pd "__UVISION_VERSION SETA 523"--list .\lst\startup_stm32f10x_md.lst --xref -o .\obj\startup_stm32f10x_md.o --depend .\obj\startup_stm32f10x_md.d)
-F (.\src\CMSIS\system_stm32f10x.c)(0x59CF5C93)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\src\CMSIS --c99-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523"-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
-I (src\CMSIS\stm32f10x.h)(0x59CF5C93)
-I (src\CMSIS\core_cm3.h)(0x59CF5C92)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64D08)
-I (.\src\CMSIS\core_cmInstr.h)(0x59CF5C92)
-I (.\src\CMSIS\core_cmFunc.h)(0x59CF5C92)
-I (src\CMSIS\system_stm32f10x.h)(0x59CF5C93)
-F (.\src\main.c)(0x59EBB77F)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\src\CMSIS --c99-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64D08)
-I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F64D08)
